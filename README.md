@@ -14,6 +14,14 @@ Se puede instalar como app en Android, iPhone/iPad y PC, y funciona sin conexió
 - **Mejoras:** hasta 100 puntos repartidos en Ataque físico, Ataque especial, Vida, Defensas, Velocidad, Crítico y Recarga.
 - **Equipo:** arma, casco, armadura, botas y amuleto, con rangos de C a SS.
 - **Cosméticos:** 71 aspectos que nunca afectan al juego.
+- **Evoluciones:** cada habilidad a nivel 5 evoluciona si llevas la mejora pasiva que le corresponde.
+- **Combos de elementos:** vincular habilidades de elementos distintos provoca 15 reacciones (Vapor, Magma, Tormenta…).
+- **Compañeros:** 6 criaturas, una por elemento, que salen de huevos, luchan a tu lado y evolucionan en la partida.
+- **Actos y jefes:** Acto I con 6 fases y 5 jefes hasta el Rey Caído; Acto II con demonios, lluvia de azufre y el Rey Demonio; después, el Abismo Eterno.
+- **Biomas vivos:** enemigos propios de cada bioma, un guardián por bioma y élites con afijos (veloces, explosivos o con escudo elemental).
+- **Altares y esencias:** altares que dan bendiciones de 30 s y esferas de esencia de 5 colores.
+- **Cooperativo hasta 4 jugadores** con salas por código, invitaciones y lista de amigos, y **Duelo 1 contra 1** al mejor de tres asaltos con tus 16 habilidades en 4 vínculos de 4.
+- **Música** propia para cada bioma, los jefes y las grietas.
 - **Altar de Invocación, tienda, misiones, logros y clasificación local.**
 
 ## Controles
@@ -39,4 +47,4 @@ Basta con subir el nuevo `index.html` (y los demás archivos si cambian) a la ra
 
 ## Estado
 
-Prototipo v0.5. El progreso se guarda en el navegador de cada dispositivo. Próximas fases: cuentas y guardado en la nube, multijugador cooperativo y tienda.
+Prototipo v0.6. El progreso se guarda en el navegador de cada dispositivo. El cooperativo y el duelo conectan los navegadores directamente (PeerJS), así que necesitan internet. Próximas fases: clasificación en línea, cuentas y guardado en la nube, y tienda.
